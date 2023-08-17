@@ -1,0 +1,28 @@
+.P{
+    font-size: 60PX;
+    color: aliceblue;
+}
+body{
+    background: #3e0a75;
+}
+
+.ball{
+    background-color: #d4418f;
+    width: 100PX;
+    height: 100px;
+    border-radius: 50px;
+    position: fixed;
+    right: 666px;
+    bottom: 152px;
+    z-index: 1;
+}
+.box{
+    background: #ada7d3;
+    width: 780PX;
+    height: 100px;
+    border-radius: 10px;
+    position: fixed;
+    left: 50%;
+    bottom: 100px;
+    
+}
